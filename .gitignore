@@ -1,0 +1,4 @@
+# Ẩn toàn bộ dữ liệu biểu mẫu, chỉ đưa README lên GitHub
+*
+!.gitignore
+!README.md
